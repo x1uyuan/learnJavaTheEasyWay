@@ -7,7 +7,7 @@ import java.util.Comparator;
 /**
  * a demo for Collections sort Utils test
  *
- * @author tangkun
+ * @author dk-joker
  * @version 1.0.0
  * @since 2019-04-16 13:55
  */

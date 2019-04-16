@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * a demo for Arrays Util
  *
- * @author tangkun
+ * @author dk-joker
  * @version 1.0.0
  * @since 2019-04-16 15:28
  */

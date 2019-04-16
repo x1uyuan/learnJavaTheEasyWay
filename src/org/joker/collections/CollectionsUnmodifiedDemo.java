@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * a demo for unmodified Collection
  *
- * @author tangkun
+ * @author dk-joker
  * @version 1.0.0
  * @since 2019-04-16 14:53
  */

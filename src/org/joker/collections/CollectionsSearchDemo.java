@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * a demo for Collections Util search
  *
- * @author tangkun
+ * @author dk-joker
  * @version 1.0.0
  * @since 2019-04-16 14:33
  */
