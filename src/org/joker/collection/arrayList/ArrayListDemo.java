@@ -11,7 +11,7 @@ import java.util.Iterator;
  * @since 2019-04-17 18:17
  */
 public class ArrayListDemo {
-    public static void main(String[] srgs){
+    public static void main(String[] args){
         ArrayList<Integer> arrayList = new ArrayList<>();
 
         System.out.printf("Before add:arrayList.size() = %d\n",arrayList.size());
