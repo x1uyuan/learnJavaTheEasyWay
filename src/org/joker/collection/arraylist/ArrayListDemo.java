@@ -1,4 +1,4 @@
-package org.joker.collection.arrayList;
+package org.joker.collection.arraylist;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -14,16 +14,16 @@ public class ArrayListDemo {
     public static void main(String[] args){
         ArrayList<Integer> arrayList = new ArrayList<>();
 
-        System.out.printf("Before add:arrayList.size() = %d\n",arrayList.size());
+        System.out.printf("Before add:arraylist.size() = %d\n",arrayList.size());
 
         arrayList.add(1);
         arrayList.add(3);
         arrayList.add(5);
         arrayList.add(7);
         arrayList.add(9);
-        System.out.printf("After add:arrayList.size() = %d\n",arrayList.size());
+        System.out.printf("After add:arraylist.size() = %d\n",arrayList.size());
 
-        System.out.println("Printing elements of arrayList");
+        System.out.println("Printing elements of arraylist");
         // 三种遍历方式打印元素
         // 第一种：通过迭代器遍历
         System.out.print("通过迭代器遍历:");
@@ -63,8 +63,8 @@ public class ArrayListDemo {
         }
 
         // 抛出异常，java不支持向下转型
-        //Integer[] integer2 = new Integer[arrayList.size()];
-        //integer2 = arrayList.toArray();
+        //Integer[] integer2 = new Integer[arraylist.size()];
+        //integer2 = arraylist.toArray();
         System.out.println();
 
         // 在指定位置添加元素
