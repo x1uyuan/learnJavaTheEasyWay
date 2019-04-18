@@ -26,26 +26,26 @@ public class CollectionsSortDemo {
         System.out.println(arrayList);
         // void reverse(List list)：反转
         Collections.reverse(arrayList);
-        System.out.println("Collections.reverse(arrayList):");
+        System.out.println("Collections.reverse(arraylist):");
         System.out.println(arrayList);
 
         Collections.rotate(arrayList, 4);
-        System.out.println("Collections.rotate(arrayList, 4):");
+        System.out.println("Collections.rotate(arraylist, 4):");
         System.out.println(arrayList);
 
         // void sort(List list),按自然排序的升序排序
         Collections.sort(arrayList);
-        System.out.println("Collections.sort(arrayList):");
+        System.out.println("Collections.sort(arraylist):");
         System.out.println(arrayList);
 
         // void shuffle(List list),随机排序
-//        Collections.shuffle(arrayList);
-//        System.out.println("Collections.shuffle(arrayList):");
-//        System.out.println(arrayList);
+//        Collections.shuffle(arraylist);
+//        System.out.println("Collections.shuffle(arraylist):");
+//        System.out.println(arraylist);
 
         // void swap(List list, int i , int j),交换两个索引位置的元素
         Collections.swap(arrayList, 2, 5);
-        System.out.println("Collections.swap(arrayList, 2, 5):");
+        System.out.println("Collections.swap(arraylist, 2, 5):");
         System.out.println(arrayList);
 
         // 定制排序的用法
