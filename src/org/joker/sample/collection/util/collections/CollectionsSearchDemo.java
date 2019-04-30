@@ -1,9 +1,10 @@
-package org.joker.collection.collections;
+package org.joker.sample.collection.util.collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
 /**
+ * Collections: 提供了对集合进行排序、遍历等多种算法实现
  * a demo for Collections Util search
  *
  * @author dk-joker

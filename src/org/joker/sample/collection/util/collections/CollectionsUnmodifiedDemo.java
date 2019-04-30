@@ -1,4 +1,4 @@
-package org.joker.collection.collections;
+package org.joker.sample.collection.util.collections;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package org.joker.collection.operations;
+package org.joker.sample.collection.list.arraylist;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0.0
  * @since 2019-04-17 10:41
  */
-public class OperationDemo {
+public class ArrayListCollectionDemo {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         List<Integer> list1 = new ArrayList<>();

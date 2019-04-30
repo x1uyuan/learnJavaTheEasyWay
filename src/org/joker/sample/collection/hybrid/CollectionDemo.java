@@ -1,4 +1,4 @@
-package org.joker.collection.demoOfCollections;
+package org.joker.sample.collection.hybrid;
 
 import java.util.ArrayList;
 import java.util.HashMap;

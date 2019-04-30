@@ -1,4 +1,4 @@
-package org.joker.collection.linkedlist;
+package org.joker.sample.collection.list.linkedlist;
 
 import java.util.Iterator;
 import java.util.LinkedList;

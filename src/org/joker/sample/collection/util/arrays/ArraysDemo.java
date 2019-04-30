@@ -1,4 +1,4 @@
-package org.joker.collection.arrays;
+package org.joker.sample.collection.util.arrays;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.joker.collection.arraylist;
+package org.joker.sample.collection.list.arraylist;
 
 import java.util.ArrayList;
 import java.util.Iterator;
